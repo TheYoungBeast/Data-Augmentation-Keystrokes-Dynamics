@@ -8,4 +8,10 @@
 1) avg
 2) gaussian noise
 3) random [-X, X] values
+
+
+## Base results
+![base](https://user-images.githubusercontent.com/19922252/229304051-259cac63-c579-456f-90b1-a7288b18716b.jpg)
+
+## Results after data-augmentation
 ![229303596-d0b17e34-a491-40d6-adc2-02347b1bd5fc](https://user-images.githubusercontent.com/19922252/229303652-0014571f-99ac-406d-83c5-169e8eadd184.jpg)
